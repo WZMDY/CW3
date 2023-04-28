@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  2 04:14:15 2023
-
-@author: dylan
-"""
-
 import argparse
 import time
 import random
